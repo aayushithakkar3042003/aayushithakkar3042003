@@ -6,11 +6,12 @@
 </p>
 
 ---
+![Alt text](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif)
 
 ### 💡 About Me
 
 - 🎓 Trainee at NSTI Indore | Microsoft & Edunet AI Microdegree  
-- 💼 Actively seeking roles in AI/ML, Python, Django, or Full-Stack Development  
+- 💼 Actively seeking roles in AI/ML, Python, Computer Vision, Gen AI  
 - 🛠 Turning concepts into portfolio-ready mini projects  
 - 🌏 Adapting to cross-cultural setups and new tech environments
 
@@ -18,9 +19,9 @@
 
 ### 🚀 Tech Toolkit
 
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** Django, React (learning), TensorFlow, OpenCV  
-- **Tools:** Gradio, Streamlit, GitHub, Pandas, MS Office  
+- **Languages:** Python, SQL  
+- **Frameworks:**  Pandas, Numpy, Matplotlib, Seaborn, Scikit, Tensorflow, OpenCV, Transformers 
+- **Tools:** Gradio, Streamlit, GitHub, Pandas, MS Office, PowerBI 
 - **Specialties:** OCR, contact extraction, automation, and interview-style explainers
 
 ---
@@ -36,16 +37,14 @@
 
 ### 📈 Currently Working On
 
-- Mastering full-stack with Django + React  
-- Preparing for interviews at CIS, Accenture, TCS  
-- Building accessible, demo-ready web apps
+- working on Skills For Improvements
 
 ---
 
 ### 📫 Let's Connect
 
-- 💌 Reach me at [your-email@example.com]  
-- 💬 Languages: English | Hindi | Russian (translation-ready!)  
+- 💌 Reach me at [thakkaraayushi7@gmail.com]  
+- 💬 Languages: English | Hindi  
 - 🤝 Open to roles in Indore, Chennai, or other tech hubs
 
 ---
