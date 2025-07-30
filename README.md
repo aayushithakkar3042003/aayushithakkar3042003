@@ -37,7 +37,7 @@
 
 ### 📈 Currently Working On
 
-- working on Skills For Improvements
+- working on Skills For Improvements.
 
 ---
 
