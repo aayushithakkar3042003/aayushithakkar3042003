@@ -31,7 +31,7 @@
 - 🧠 **Ramayan Q&A Bot** – NLP meets ancient texts  
 - 📄 **Contact Extractor App** – Clean data, smooth exports  
 - 🎨 **Interactive Skill Showcase** – Dynamic frontends with React  
-- 🔗 Explore them on [GitHub](https://github.com/aayushithakkar) (link your actual username!)
+- 🔗 Explore them on [GitHub](https://github.com/aayushithakkar3042003) 
 
 ---
 
